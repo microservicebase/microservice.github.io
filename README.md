@@ -1,8 +1,9 @@
 # 1，list of projects
 
-note: number 1 ~ 11 are projects used in our study, and the rest are the excluded projects
+**note:** number 1 ~ 11 are projects used in our study, and the rest are the excluded projects.
+**Abbreviation interpretation:** (1)NOS refers to Number of Services (2) NOSCCSC refers to Number of Services Contain Cross-Service Clones.
 
-|      | Project Name                 | Link                                                        | Number of Services | Number of Services contain cross service clones | Number of Star | Number of Cross Clone Pairs |
+|      | Project Name                 | Link                                                        | NOS| NOSCCSC | Number of Star | Number of Cross Clone Pairs |
 | ---- | ---------------------------- | ----------------------------------------------------------- | ------------------ | ----------------------------------------------- | -------------- | --------------------------- |
 | 1    | zheng                        | https://github.com/shuzheng/zheng                           | 10                 |                                                 | 16.2k          | 1495                        |
 | 2    | NetworkDisk                  | https://github.com/quhailong/NetworkDisk_Storage            | 10                 |                                                 | 262            | 559                         |
