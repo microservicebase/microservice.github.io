@@ -1,6 +1,7 @@
 # 1，list of projects
 
 **note:** number 1 ~ 11 are projects used in our study, and the rest are the excluded projects.
+
 **Abbreviation interpretation:** (1)NOS refers to Number of Services (2) NOSCCSC refers to Number of Services Contain Cross-Service Clones.
 
 |      | Project Name                 | Link                                                        | NOS| NOSCCSC | Number of Star | Number of Cross Clone Pairs |
